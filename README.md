@@ -2,6 +2,9 @@
 
 A modular, testable, and responsive job matching app built with Expo and React Native.
 
+## Expo GO Demo
+![QR](https://github.com/user-attachments/assets/e931c75c-18cb-4841-98f8-af2d5a9966ed)
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -54,7 +57,7 @@ A modular, testable, and responsive job matching app built with Expo and React N
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/swipejobs.git
+   git clone https://github.com/xeo3221/swipejobs.git
    cd swipejobs
    ```
 2. **Install dependencies**
@@ -76,12 +79,6 @@ A modular, testable, and responsive job matching app built with Expo and React N
 npm test
 # or
 yarn test
-```
-
-To check coverage:
-
-```sh
-npx jest --coverage
 ```
 
 ## 📁 Project Structure
@@ -114,14 +111,10 @@ src/
 
 ## 🎨 Design
 
-## 🙏 Acknowledgments
-
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/)
-- [React Navigation](https://reactnavigation.org/)
-- [React Query](https://tanstack.com/query/latest)
-- [Jest](https://jestjs.io/)
-- [React Native Testing Library](https://callstack.github.io/react-native-testing-library/)
+  <img src="https://github.com/user-attachments/assets/589f60cc-8300-4322-ae02-e24370bf0621" width="350" height="auto" />
+  <img src="https://github.com/user-attachments/assets/e67b4606-f0d2-4779-a312-6957bc60a7b0" width="350" height="auto" />
+  <img src="https://github.com/user-attachments/assets/13c20474-477e-4c82-89e5-9c04f2730f4d" width="350" height="auto" />
+  <img src="https://github.com/user-attachments/assets/f280298e-6726-4d86-baf7-82f362f29f91" width="350" height="auto" />
 
 ---
 
