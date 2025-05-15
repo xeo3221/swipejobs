@@ -35,3 +35,9 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+instructions.md
+.cursor
+job-card-mockup.png
+ios/
+android/

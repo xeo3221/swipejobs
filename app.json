@@ -13,7 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.xeo3221.swipejobs"
     },
     "android": {
       "adaptiveIcon": {
@@ -24,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6c7b3ffe-af3c-4f6f-88fe-1a1eec5a419f"
+      }
+    },
+    "owner": "xeo3221",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/6c7b3ffe-af3c-4f6f-88fe-1a1eec5a419f"
     }
   }
 }
